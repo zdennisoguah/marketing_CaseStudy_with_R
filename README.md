@@ -1,5 +1,6 @@
 # Marketing Case Study with R
 CASE STUDY: Bellabeat Fitness Data Analysis
+[Link to the project](https://z7ytl0-dennis-oguah.shinyapps.io/cap_proj_bellabeat/)
 ##### Author: Dennis Oguah
 
 ##### Date: October 12, 2023
