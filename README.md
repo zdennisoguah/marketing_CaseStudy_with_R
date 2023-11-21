@@ -244,7 +244,7 @@ summary(intensities)
 + Average total steps per day (which is 7638) is a little bit less than recommended by the CDC. According to the CDC research, taking 8,000 steps per day was associated with a 51% lower risk for all-cause mortality (or death from all causes). And taking 12,000 steps per day was associated with a 65% lower risk compared with taking 4,000 steps
 
 
-# 5. Share phase 
+# 5. Share
 We will now analyze trends of the users of Fitbit using the data of the participants and determine if it can help shape BellaBeat's marketing strategy and answer what trends are available in smart device usage.
 
 + 5.1 Merge relevant data sets
@@ -342,7 +342,7 @@ geom_point(color='darkblue') + geom_smooth() +
 
 + There negative relationship between Sedentary Minutes and Sleep time. this means that users need to reduce their sedentary time to improve sleep.
 
-# 6. Act phase
+# 6. Act
 > Major Findings:
 
 + The average daily step count is 7638, which is fewer than the CDC-recommended norm for adults of 8000 steps.
